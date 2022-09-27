@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-inventoryapp-dev-02017-authRole",
+      "UnauthRoleArn": "arn:aws:iam::734144859317:role/amplify-inventoryapp-dev-02017-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::734144859317:role/amplify-inventoryapp-dev-02017-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-inventoryapp-dev-02017-deployment",
+      "UnauthRoleName": "amplify-inventoryapp-dev-02017-unauthRole",
+      "StackName": "amplify-inventoryapp-dev-02017",
+      "StackId": "arn:aws:cloudformation:ap-south-1:734144859317:stack/amplify-inventoryapp-dev-02017/3c893e70-3e95-11ed-a812-06f672bdb2bc",
+      "AmplifyAppId": "d2v2wgn59w4ghs"
+    },
+    "categories": {
+      "function": {
+        "inventoryappd0099bcd": {
+          "deploymentBucketName": "amplify-inventoryapp-dev-02017-deployment",
+          "s3Key": "amplify-builds/inventoryappd0099bcd-6758444c337174546866-build.zip"
+        }
+      }
+    }
+  }
+}
