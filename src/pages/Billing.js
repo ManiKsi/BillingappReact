@@ -21,7 +21,7 @@ import {
   FormErrorMessage,
 } from "@chakra-ui/react";
 import axios from "axios";
-const URL = "http://localhost:3001";
+const URL = "https://afternoon-citadel-59731.herokuapp.com";
 const Billing = () => {
   const [cart, setCart] = useState([]);
   const [final, setFinal] = useState({

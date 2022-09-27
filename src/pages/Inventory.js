@@ -42,7 +42,7 @@ var ModalDetails = {
   product_id: "",
   store_id: "",
 };
-const URL = "http://localhost:3001";
+const URL = "https://afternoon-citadel-59731.herokuapp.com";
 
 const Inventory = () => {
   const [Data, setData] = useState([]);
