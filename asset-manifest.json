@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BillingappReact/static/css/main.f8e62054.css",
+    "main.js": "/BillingappReact/static/js/main.d069398c.js",
+    "static/media/Group 2@2x.png": "/BillingappReact/static/media/Group 2@2x.2b41ed3f4511bdf8b51a.png",
+    "index.html": "/BillingappReact/index.html",
+    "main.f8e62054.css.map": "/BillingappReact/static/css/main.f8e62054.css.map",
+    "main.d069398c.js.map": "/BillingappReact/static/js/main.d069398c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e62054.css",
+    "static/js/main.d069398c.js"
+  ]
+}
